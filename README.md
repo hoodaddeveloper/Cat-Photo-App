@@ -1,2 +1,2 @@
 # Cat-Photo-App
-Learning HTML by building a Cat Photo App in freeCodeCamp.org
+Learning HTML by building a Cat Photo App in www.freecodecamp.org.
